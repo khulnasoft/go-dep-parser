@@ -1,9 +1,10 @@
-module github.com/aquasecurity/go-dep-parser
+module github.com/khulnasoft/go-dep-parser
 
 go 1.21
 
 require (
 	github.com/BurntSushi/toml v1.4.0
+	github.com/aquasecurity/go-dep-parser v0.0.0-20240606050805-1de9a375c629
 	github.com/aquasecurity/go-pep440-version v0.0.0-20210121094942-22b2f8951d46
 	github.com/aquasecurity/go-version v0.0.0-20210121072130-637058cfe492
 	github.com/hashicorp/go-multierror v1.1.1
