@@ -9,9 +9,9 @@ import (
 	"golang.org/x/exp/slices"
 	"golang.org/x/xerrors"
 
-	dio "github.com/aquasecurity/go-dep-parser/pkg/io"
-	"github.com/aquasecurity/go-dep-parser/pkg/log"
-	"github.com/aquasecurity/go-dep-parser/pkg/types"
+	dio "github.com/khulnasoft/go-dep-parser/pkg/io"
+	"github.com/khulnasoft/go-dep-parser/pkg/log"
+	"github.com/khulnasoft/go-dep-parser/pkg/types"
 )
 
 type LockFile struct {
