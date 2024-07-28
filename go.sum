@@ -1,6 +1,8 @@
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/BurntSushi/toml v1.4.0 h1:kuoIxZQy2WRRk1pttg9asf+WVv6tWQuBNVmK8+nqPr0=
 github.com/BurntSushi/toml v1.4.0/go.mod h1:ukJfTF/6rtPPRCnwkur4qwRxa8vTRFBF0uk2lLoLwho=
+github.com/aquasecurity/go-dep-parser v0.0.0-20240606050805-1de9a375c629 h1:igCmwDK7ChlFj5NPvbM8M/At7h6nXbYFbPkByLe6Qpk=
+github.com/aquasecurity/go-dep-parser v0.0.0-20240606050805-1de9a375c629/go.mod h1:6sh6f0Ixlt+oIMEPGxJyDOmzB03tK2v2rsAlc/9q12g=
 github.com/aquasecurity/go-pep440-version v0.0.0-20210121094942-22b2f8951d46 h1:vmXNl+HDfqqXgr0uY1UgK1GAhps8nbAAtqHNBcgyf+4=
 github.com/aquasecurity/go-pep440-version v0.0.0-20210121094942-22b2f8951d46/go.mod h1:olhPNdiiAAMiSujemd1O/sc6GcyePr23f/6uGKtthNg=
 github.com/aquasecurity/go-version v0.0.0-20210121072130-637058cfe492 h1:rcEG5HI490FF0a7zuvxOxen52ddygCfNVjP0XOCMl+M=
